@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:http://static-origin.naplesnews.com/sitemap.xml

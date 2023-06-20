@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:http://static-origin.naplesnews.com/baccarat/sitemap.xml
